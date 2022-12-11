@@ -1,5 +1,6 @@
 /*
-Problem: Given An Array Of Integers And A Number K, Write A Function That Returns True If Given Array Can Be Divided Into Pairs Such That Sum Of Every Pair Is Divisible By K.
+Problem: Given An Array Of Integers And A Number K, Write A Function That Returns True If Given Array Can Be Divided Into Pairs
+Such That Sum Of Every Pair Is Divisible By K.
 
 Input : Arr = [9, 5, 7, 3], k = 6
 Output: True
